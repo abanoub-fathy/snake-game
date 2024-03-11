@@ -1,6 +1,8 @@
 # Snake Game 🐍
 Welcome to the Golang Snake Game repository! This is a simple implementation of the classic Snake game written in [go programming language](https://go.dev/) and the [Ebiten](https://ebitengine.org/) open-source game engine.. Have fun playing and exploring the code!
 
+![game](https://github.com/abanoub-fathy/snake-game/assets/95833413/066a12a9-11df-44e3-bd58-67aebe0484b5)
+
 ## Table of Contents
 - [Features](#features)
 - [How to Play](#how-to-play)
