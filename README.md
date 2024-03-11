@@ -43,6 +43,12 @@ Change directory to the cloned repository:
 cd snake-game
 ```
 
+Install dependencies
+
+```bash
+go get
+```
+
 Build the game:
 
 ```bash
@@ -71,7 +77,7 @@ These are just a few ideas to get you started. Feel free to explore other creati
 
 We welcome contributions to this project! Please submit pull requests with clear descriptions of your changes. Ensure proper code formatting and testing before submitting.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
